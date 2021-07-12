@@ -151,7 +151,7 @@ def startprint():
                                  {Fore.RED}╚═════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝                                                                                                                                       
                                                             
                         
-                       {Fore.CYAN}Crystal Selfbot {SELFBOT.__version__} | {Fore.GREEN}Logged in as: {Crystal.user.name}#{Crystal.user.discriminator} {Fore.BLUE}| ID: {Fore.GREEN}{Crystal.user.id}   
+                       {Fore.CYAN}Crystal Selfbot {SELFBOT.__version__} | {Fore.GREEN}Logged in as: {Crystal.user.name}#{Crystal.user.discriminator} {Fore.CYAN}| ID: {Fore.GREEN}{Crystal.user.id}   
                        {Fore.CYAN}Privnote Sniper | {Fore.GREEN}{privnote}
                        {Fore.CYAN}Nitro Sniper | {Fore.GREEN}{nitro}
                        {Fore.CYAN}Giveaway Sniper | {Fore.GREEN}{giveaway}
