@@ -157,7 +157,7 @@ def startprint():
                        {Fore.CYAN}Giveaway Sniper | {Fore.GREEN}{giveaway}
                        {Fore.CYAN}SlotBot Sniper | {Fore.GREEN}{slotbot}
                        {Fore.CYAN}Prefix: {Fore.GREEN}{prefix}
-                       {Fore.CYAN}Creator: {Fore.GREEN}xxTurborocketxx#0001
+                       {Fore.CYAN}Creator: {Fore.GREEN}xxTurborocketxx#7955
     '''+Fore.RESET)
 
 def Clear():
@@ -546,7 +546,7 @@ async def cringe(ctx):
 @Crystal.command(name="about")
 async def about(ctx):
     await ctx.message.delete()
-    embed = discord.Embed(title="Crystal Selfbot", description="Crystal SelfBot is an open source, easy to use, customizable selfbot. It was made by xxTurborocketxx#0001 and can be downloaded here https://github.com/xxTurborocketxx/Crystal-Selfbot", color=0x9F00FB)
+    embed = discord.Embed(title="Crystal Selfbot", description="Crystal SelfBot is an open source, easy to use, customizable selfbot. It was made by xxTurborocketxx#7955 and can be downloaded here https://github.com/xxTurborocketxx/Crystal-Selfbot", color=0x9F00FB)
     embed.set_thumbnail(url="https://media.giphy.com/media/Q5w2ItO7cdzFe/giphy.gif")
     embed.set_footer(text="Crystal")
     text = await ctx.send(embed=embed)
